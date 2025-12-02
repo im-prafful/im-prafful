@@ -1,33 +1,3 @@
-This is a sophisticated request. Using HTML `<details>` and `<summary>` tags is the perfect way to handle the "Expandable Certificates" requirement to keep the README clean while packing in a lot of proof.
-
-Here is your **Ultra-Premium, Research-Focused README**.
-
-### 📂 Required Folder Structure Update
-
-Since we are adding specific certificate sections and "topic" images for research, your `assets` folder needs to look like this. **You will need to upload images matching these names:**
-
-```text
-im-prafful/
-├── README.md
-├── myResume.pdf
-└── assets/
-    ├── cert-tcs.jpg          (TCS Offer/Cert)
-    ├── cert-samsung.jpg      (Samsung Internship Cert)
-    ├── cert-srm.jpg          (Research/College Cert)
-    ├── patent-india.jpg      (Indian Patent Image)
-    ├── patent-germany.jpg    (German Patent Image)
-    ├── paper-crop.jpg        (Visual/Diagram for Crop Paper)
-    ├── paper-rain.jpg        (Visual/Diagram for Rainfall Paper)
-    ├── cert-conf.jpg         (Conference Certificate)
-    ├── project-crop.jpg      (Thumbnail for Crop Project)
-    └── project-vehicle.jpg   (Thumbnail for Vehicle Project)
-```
-
------
-
-### 💻 Copy this Code
-
-```markdown
 <div align="center">
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prafful%20Mishra&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20%40%20TCS%20%7C%20AI%20Researcher%20%7C%20Patent%20Holder&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
@@ -255,4 +225,3 @@ im-prafful/
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-```
