@@ -1,180 +1,132 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prafful%20Mishra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Future%20of%20AI%20%7C%20Cloud%20%7C%20Innovation&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prafful%20Mishra&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Systems%20Engineer%20@%20TCS%20|%20AI%20Researcher%20|%20Patent%20Holder&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=AI+%26+Cloud+Engineer+%F0%9F%9A%80;Specializing+in+AWS+%7C+Azure+%7C+GCP;Building+Scalable+ML+Pipelines;2+Patents+%7C+Research+Published" alt="Typing SVG" /></a>
-
-<!-- DYNAMIC BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=im-prafful&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/im-prafful?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/im-prafful?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-  <a href="./Prafful_Mishra_Resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-critical?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
-</p>
-
----
-
-</div>
+<a href="https://github.com/im-prafful">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Architecting+Cloud-Native+Solutions;Fine-tuning+Neural+Networks;Building+Scalable+Microservices;Inventing+Patented+Technology" alt="Typing SVG" />
+</a>
 
 <br>
 
-<!-- ABOUT ME SECTION -->
+<!-- BADGES -->
+<p>
+  <a href="https://linkedin.com/in/prafful-mishra-9607b7209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:imprafful26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.codechef.com/users/im_prafful"><img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="./myResume.pdf"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+</p>
 
-## 💻 `$ whoami`
+<img src="https://komarev.com/ghpvc/?username=im-prafful&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-```bash
-prafful@github:~$ cat about.txt
+</div>
 
-> Systems Engineer @ Tata Consultancy Services
-> Building ML pipelines that process 4,400+ legal docs with 66% faster throughput
-> Modernizing legacy mainframe → microservices | TypeScript + AWS Lambda + DB2
-> GATE Qualified (CS&IT) | CGPA: 9.61/10 | SRM Academic Winner '24
+---
 
-🔭 Currently: Architecting serverless ML infrastructure on AWS
-🌱 Learning: Advanced Kubernetes orchestration & LLM fine-tuning
-⚡ Fun Fact: Patented 2 AI systems before graduation | Chess enthusiast ♟️
+## 👨‍💻 About Me
+
+```console
+prafful@github:~$ whoami
+
+> Systems Engineer @ Tata Consultancy Services (Dec 2024 - Present)
+> Gold Medalist (CGPA 9.61/10) | SRM Institute of Science and Technology
+> GATE Qualified (CS & IT) | 2 Patents Filed | Research Published in Springer (soon)
+
+🔭 Building ML pipelines processing 4,400+ legal docs with 66% faster throughput
+🌱 Modernizing legacy mainframes → Java/TypeScript microservices
+⚡ Specializing in AWS Lambda | Docker | AI/ML | Serverless Architecture
+🎯 2 Patents | 2 Research Papers (in-review) | 3-Star CodeChef
 ```
 
-<br>
-
----
-
-<br>
-
-<!-- TECH STACK SECTION -->
-
-## 🛠️ **Tech Arsenal**
-
 <div align="center">
 
-### **Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,sql" />
-</p>
-
-### **AI/ML & Data Science**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-### **Cloud & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,postman" />
-</p>
-
-#### **AWS Services**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-</p>
-
-### **Frameworks & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask" />
-  <img src="https://img.shields.io/badge/DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-
-### **Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
+**I live at the intersection of applied engineering and academic research** — building systems that _actually_ matter.
 
 </div>
 
-<br>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI/ML & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**AWS Tools:** Lambda · EC2 · S3 · SQS · RDS · CloudWatch
+
+### Frameworks & Databases
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
 
 ---
 
+## 🎓 Education
+
+<details open>
+<summary><b>🏛️ Bachelor of Technology in Computer Science & Engineering</b></summary>
+
 <br>
 
-<!-- EDUCATION SHOWCASE -->
 <div align="center">
 
-## 🎓 **Education Showcase**
+<img src="./assets/certificates/degree.jpg" alt="Degree Certificate" width="70%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(59,130,246,0.3);"/>
 
-<details>
-<summary><b>🏛️ Click to view my degree certificate</b></summary>
-
-<br>
-
-<div style="border: 3px solid; border-image: linear-gradient(45deg, #FFD700, #FFA500, #FFD700) 1; padding: 20px; animation: borderAnimation 3s infinite;">
-
-<img src="./assets/certificates/degree.jpeg" alt="SRM Degree Certificate" width="80%" style="box-shadow: 0 8px 32px rgba(255, 215, 0, 0.4); border-radius: 10px;"/>
-
-**Bachelor of Technology in Computer Science and Engineering**  
-🏫 SRM Institute of Science and Technology, Chennai  
+**SRM Institute of Science and Technology, Chennai**  
 📅 September 2020 – May 2024  
-🎯 CGPA: **9.61/10** | **First Class with Distinction**
+🎯 CGPA: **9.61/10** | **First Class with Distinction**  
+🏆 SRM Academic Winner Award 2024
 
 </div>
 
 </details>
 
-</div>
-
-<style>
-@keyframes borderAnimation {
-  0%, 100% { border-image-source: linear-gradient(45deg, #FFD700, #FFA500); }
-  50% { border-image-source: linear-gradient(45deg, #FFA500, #FFD700); }
-}
-</style>
-
-<br>
-
 ---
 
-<br>
-
-<!-- PROJECTS SECTION -->
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-|                                                                     🎯 Project                                                                      |                                                                                                                                                                                           🛠️ Tech Stack                                                                                                                                                                                           |                                                                                    🎬 Demo                                                                                    |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Optimal Crop Recommendation System** <br> _Compound-Ensemble ML model with 99% accuracy_ <br> Integrated 12 weak classifiers + Genetic Algorithms | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![IoT](https://img.shields.io/badge/IoT_Sensors-00979D?style=flat&logo=arduino&logoColor=white)  | [![Watch](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/sCcLKE5mnjc?si=74hF9Krv2KPZMI6n) |
-|  **AI-Driven Vehicle Safety System** <br> _ANN-based prototype simulating 18% crash risk reduction_ <br> Patent-pending speed limiting innovation   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Embedded_C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=raspberrypi&logoColor=white) |                      [![Watch](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)                      |
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- EXPERIENCE SECTION -->
-
-## 💼 **Professional Journey**
+## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 Tata Consultancy Services (TCS) — Systems Engineer</b> | Dec 2024 – Present</summary>
+<summary><b>🚀 Systems Engineer @ Tata Consultancy Services (TCS)</b> · Dec 2024 - Present</summary>
 
 <br>
 
-**📍 Location:** Chennai, Tamil Nadu
+**📍 Chennai, Tamil Nadu**
 
-**🔧 Key Contributions:**
-
-- 🚀 Built a **ML pipeline** processing **4,400+ legal documents** with **66% faster throughput** using **AWS Lambda** and **TypeScript**
-- ⚙️ Modernizing **legacy mainframe workloads** into **Java/TypeScript microservices** backed by **DB2**
-- 📝 Developed **TypeScript-based dynamic form processing** across **JSON, XML, and ODT** with **Lambda-driven payloads**
-- ☁️ Architecting **serverless infrastructure** for scalable document processing
+- 🚀 Built ML pipeline processing **4,400+ legal documents** with **66% faster throughput** using AWS Lambda & TypeScript
+- ⚙️ Modernizing **legacy mainframe workloads** into Java/TypeScript microservices backed by DB2
+- 📝 Developed TypeScript-based **dynamic form processing** across JSON, XML, and ODT formats
+- ☁️ Architecting serverless infrastructure for scalable document processing workflows
 
 **🏆 Recognition:**
 
@@ -183,150 +135,101 @@ prafful@github:~$ cat about.txt
 
 <br>
 
-<img src="./assets/certificates/tcs_award.jpg" alt="TCS Best Team Award" width="60%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,247,247,0.3);"/>
-
-> _"In appreciation of outstanding contribution to the organisation"_
+<div align="center">
+<img src="./assets/certificates/tcs_award.png" alt="TCS Best Team Award" width="60%" style="border-radius: 8px;"/>
+</div>
 
 </details>
 
 </details>
 
 <details>
-<summary><b>🔬 Samsung PRISM — ML Intern</b> | April 2023 – September 2023</summary>
+<summary><b>🤖 ML Intern @ Samsung PRISM</b> · April 2023 - September 2023</summary>
 
 <br>
 
-**📍 Location:** Chennai, Tamil Nadu
+**📍 Chennai, Tamil Nadu**
 
-**🎯 Achievements:**
-
-- 🖼️ Engineered a **high-resolution dataset of 2,500 images** for object detection
+- 🖼️ Engineered **high-resolution dataset of 2,500 images** for object detection tasks
 - 🧠 Fine-tuned **ResNet-based CNN** achieving **97% accuracy**
 - 📉 Implemented **Float-16 quantization**, compressing model size by **80%**
-- 🔍 Optimized inference speed for edge deployment
+- 🔍 Optimized inference speed for edge deployment scenarios
 
 </details>
 
 <details>
-<summary><b>📊 SRM Research Initiative (SERI) — Research Intern</b> | Oct 2022 – Dec 2023</summary>
+<summary><b>🔬 Research Intern @ SERI, SRM</b> · October 2022 - December 2023</summary>
 
 <br>
 
-**📍 Location:** Chennai, Tamil Nadu
-
-**🔬 Research Focus:**
+**📍 Chennai, Tamil Nadu**
 
 - 🌾 Collected and analyzed **24 unique soil samples** for agricultural applications
-- 🌧️ Developed an **Intensified LSTM model** for rainfall forecasting with **RMSE of 0.8**
-- 📄 **Co-authored** a research publication contributing **3 unique insights** (published in Springer)
+- 🌧️ Developed **Intensified LSTM model** for rainfall forecasting with **RMSE of 0.8**
+- 📄 **Co-authored research publication** contributing 3 unique insights (Published in Springer)
 - 🤖 Integrated IoT sensors for real-time environmental monitoring
 
 </details>
 
-<br>
-
 ---
 
-<br>
+## 🚀 Featured Projects
 
-<!-- RESEARCH & IP SECTION -->
 <div align="center">
 
-## 🏆 **Research & Intellectual Property**
-
-<div style="border: 4px solid; border-image: linear-gradient(90deg, #FFD700, #FFA500, #FFD700, #FFA500) 1; padding: 30px; border-radius: 15px; background: linear-gradient(135deg, rgba(255,215,0,0.05), rgba(255,165,0,0.05)); animation: goldenGlow 4s infinite;">
-
-### 📜 **Patents Granted**
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<details>
-<summary><b>🇮🇳 Indian Patent No. 564654</b></summary>
+### 🌾 Optimal Crop Recommendation
+
+<div align="center">
+<a href="https://www.youtube.com/embed/sCcLKE5mnjc?si=TT6lSjf_Y7KRs9Jz">
+<img src="./assets/previews/crop_system_thumb.webp" alt="Crop System" width="100%" style="border-radius: 10px;"/>
+<br><br>
+<img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</div>
 
 <br>
 
-<img src="./assets/certificates/patent_india.jpg" alt="Indian Patent Certificate" width="100%" style="border-radius: 8px; box-shadow: 0 6px 24px rgba(255,215,0,0.4);"/>
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**📋 Title:** AI-Driven Centralized Vehicle Control and Monitoring System
+**Highlights:**
 
-**🔬 Innovation:** ANN-based automotive safety prototype integrating ML + IoT sensors for real-time risk assessment and speed control
-
-**📅 Filed:** October 3, 2023  
-**✅ Granted:** March 30, 2025  
-**⚖️ IPC Classification:** G06F 21/55
-
-**💡 Impact:** Simulates **18% reduction in crash risk** through predictive AI intervention
-
-</details>
+- 🎯 **99% accuracy** using Compound-Ensemble of 12 classifiers
+- 🧬 Genetic Algorithms for hyperparameter tuning (+4-5% improvement)
+- ✅ **83% match rate** validated with TN Government data
 
 </td>
 <td width="50%" valign="top">
 
-<details>
-<summary><b>🇩🇪 German Patent No. 20 2025 101 529</b></summary>
+### 🚗 AI Vehicle Safety System
+
+<div align="center">
+<a href="https://www.youtube.com/embed/8Tix9FgEa9k?si=yJGkN8GK7Xm0mCn8">
+<img src="./assets/previews/vehicle_system_thumb.avif" alt="Vehicle System" width="100%" style="border-radius: 10px;"/>
+<br><br>
+<img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</div>
 
 <br>
 
-**📋 Title:** A System for Securing Patient Data in IoT-Enabled Hospitals
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**🔬 Innovation:** Blockchain-integrated security framework with advanced PII masking and cryptographic protection for healthcare IoT networks
+**Highlights:**
 
-**📅 Filed:** March 20, 2025  
-**✅ Registered:** April 1, 2025  
-**⚖️ IPC Classification:** G06F 21/55
-
-**💡 Key Features:**
-
-- 🔐 Public/private key cryptography
-- 🛡️ Pre-processing with PII data masking
-- ⛓️ Blockchain-based secure data blocks
-- 🏥 Resilient against cyber threats in healthcare
-
-</details>
-
-</td>
-</tr>
-</table>
-
----
-
-### 📚 **Research Publications**
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-**📘 Published in Springer** _(Feb 2024)_
-
-<img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge&logo=springer&logoColor=white"/>
-
-**3rd International Conference on Recent Trends in Engineering, Technology and Business Management**
-
-_Mitigating Ransomware in IoT-enabled Hospitals using Blockchain and AI/ML Techniques_
-
-<details>
-<summary>📜 View Conference Certificate</summary>
-
-<br>
-
-<img src="./assets/certificates/springer_conf.jpg" alt="Springer Conference Certificate" width="90%" style="border-radius: 8px;"/>
-
-</details>
-
-</td>
-<td width="50%" align="center">
-
-**📗 ScienceDirect** _(Under Review)_
-
-<img src="https://img.shields.io/badge/Status-Under_Review-blue?style=for-the-badge&logo=elsevier&logoColor=white"/>
-
-**Optimizing Crop Selection for Sustainable Agriculture**
-
-_A Compound Ensemble Approach Integrating Machine Learning and IoT-based Sensors_
-
-**Key Contribution:** 99% accuracy through 12-classifier ensemble + Genetic Algorithm tuning
+- 🧠 Lightweight ANN achieving **92% accuracy**
+- 🛡️ Simulated **18% reduction in crash risk**
+- 📜 **Patent filed** for proprietary speed-limiting system
 
 </td>
 </tr>
@@ -334,28 +237,108 @@ _A Compound Ensemble Approach Integrating Machine Learning and IoT-based Sensors
 
 </div>
 
-</div>
+---
 
-<style>
-@keyframes goldenGlow {
-  0%, 100% {
-    box-shadow: 0 0 20px rgba(255,215,0,0.3), 0 0 40px rgba(255,165,0,0.2);
-  }
-  50% {
-    box-shadow: 0 0 30px rgba(255,215,0,0.5), 0 0 60px rgba(255,165,0,0.3);
-  }
-}
-</style>
+## 🏆 Research & Intellectual Property
+
+<div align="center">
+<br>
+
+> ### 📜 Patents Granted
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🇮🇳 Indian Patent**
+
+<img src="./assets/certificates/patent_india.jpg" alt="Indian Patent" height="220px" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(59,130,246,0.4);"/>
+
+**Patent No. 564654**  
+_AI-Driven Centralized Vehicle Control and Monitoring System_
+
+📅 Filed: Oct 2023 | Granted: Mar 2025  
+🔬 ANN + IoT sensors for real-time risk assessment
+
+</td>
+<td align="center" width="50%">
+
+**🇩🇪 German Patent**
+
+<img src="./assets/certificates/patent_germany.jpg" alt="German Patent" height="220px" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(59,130,246,0.4);"/>
+
+**Patent No. 20 2025 101 529**  
+_System for Securing Patient Data in IoT-Enabled Hospitals_
+
+📅 Filed: Mar 2025 | Registered: Apr 2025  
+🔐 Blockchain + PII masking for healthcare security
+
+</td>
+</tr>
+</table>
 
 <br>
+
+> ### 📚 Research Publications
+
+<table>
+<tr>
+<td width="70%">
+
+**Published in Springer** _(February 2024)_  
+📘 _Mitigating Ransomware in IoT-enabled Hospitals using Blockchain and AI/ML Techniques_
+
+Presented at: **3rd International Conference on Recent Trends in Engineering, Technology and Business Management (ICRTETBM 2024)**
+
+</td>
+<td width="30%" align="center">
+
+<details>
+<summary>📜 <b>View Certificate</b></summary>
+<br>
+<img src="./assets/certificates/springer_conf.jpg" alt="Conference Certificate" width="100%"/>
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**Under Review - ScienceDirect**  
+📗 _Optimizing Crop Selection for Sustainable Agriculture: A Compound Ensemble Approach Integrating Machine Learning and IoT-based Sensors_
+
+Key Innovation: 99% accuracy through 12-classifier ensemble + Genetic Algorithm optimization
+
+</td>
+<td width="30%" align="center">
+
+![Status](https://img.shields.io/badge/Status-Under_Review-blue?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<br>
+## 🏅 Achievements
 
-<!-- GITHUB STATS SECTION -->
+<div align="center">
 
-## 📊 **GitHub Analytics**
+| 🏆 Achievement                             |  Year   | Status |
+| :----------------------------------------- | :-----: | :----: |
+| **GATE Qualified** (Computer Science & IT) |  2024   |   ✅   |
+| **SRM Academic Winner Award**              |  2024   |   ✅   |
+| **Project Expo - 2nd Place**               |  2024   |   🥈   |
+| **CodeChef 3-Star Coder**                  | Ongoing | ⭐⭐⭐ |
+| **TCS Best Team Award**                    |  2025   |   🏆   |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -369,113 +352,50 @@ _A Compound Ensemble Approach Integrating Machine Learning and IoT-based Sensors
 <br><br>
 
 <!-- Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-prafful&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-prafful&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" alt="Top Languages" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=im-prafful&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-prafful&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
+
+<br>
 
 <!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-prafful&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=im-prafful&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-prafful&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-<!-- ACHIEVEMENTS SECTION -->
-
-## 🏅 **Achievements & Recognition**
+## 🎯 Beyond Code
 
 <div align="center">
 
-|        🏆 Achievement         | 📅 Year |           🔗 Proof           |
-| :---------------------------: | :-----: | :--------------------------: |
-| **GATE Qualified** (CS & IT)  |  2024   |              ✅              |
-| **SRM Academic Winner Award** |  2024   |              ✅              |
-| **Project Expo - 2nd Place**  |  2024   |              🥈              |
-|      **CodeChef 3-Star**      | Ongoing |            ⭐⭐⭐            |
-|    **TCS Best Team Award**    |  2025   | [🏆](#-professional-journey) |
+|                      ♟️ Chess                       |                 ✈️ Travel                  |         💻 Problem Solving         |
+| :-------------------------------------------------: | :----------------------------------------: | :--------------------------------: |
+| Strategic thinking translates to algorithmic design | Exploring cultures, collecting experiences | Continuous learning & optimization |
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-<!-- HOBBIES SECTION -->
-
-## 🎯 **Beyond Code**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-♟️ **Chess Enthusiast**  
-Strategic thinking translates to algorithmic problem-solving
-
-</td>
-<td align="center" width="50%">
-
-✈️ **Travel Explorer**  
-Exploring cultures, collecting experiences
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- CONNECT SECTION -->
-
-## 🌐 **Let's Connect**
+## 📬 Let's Connect
 
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/prafful-mishra-9607b7209"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/prafful-mishra-9607b7209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:imprafful26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/im-prafful"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="tel:+918969729975"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-**📍 Location:** Chennai, Tamil Nadu, India  
-**🌍 Open to:** Remote Work | Collaborations | Research Opportunities
-
-</div>
+**📍 Location:** Hazaribagh, Jharkhand, India  
+**🌐 Open to:** Remote Work | Collaborations | Research Opportunities
 
 <br>
 
----
+_"The best way to predict the future is to invent it."_
 
-<div align="center">
-
-### 💬 _"Transforming ideas into intelligent systems, one commit at a time."_
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="https://count.getloli.com/get/@im-prafful?theme=rule34" alt="Visitor Count"/>
 </div>
