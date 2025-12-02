@@ -1,227 +1,481 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prafful%20Mishra&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20%40%20TCS%20%7C%20AI%20Researcher%20%7C%20Patent%20Holder&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 
-  <a href="https://github.com/im-prafful">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Architecting+Cloud-Native+Solutions;Fine-tuning+Neural+Networks;Building+Scalable+Microservices;Inventing+Patented+Tech" alt="Typing SVG" />
-  </a>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prafful%20Mishra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Future%20of%20AI%20%7C%20Cloud%20%7C%20Innovation&descAlignY=60&descSize=18" width="100%"/>
 
-  <p>
-    <a href="https://linkedin.com/in/prafful-mishra-9607b7209/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:imprafful26@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/im-prafful">
-      <img src="https://img.shields.io/badge/CodeChef-3%20Star-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-    </a>
-    <a href="./myResume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
-    </a>
-  </p>
-</div>
+<!-- TYPING ANIMATION -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=AI+%26+Cloud+Engineer+%F0%9F%9A%80;Specializing+in+AWS+%7C+Azure+%7C+GCP;Building+Scalable+ML+Pipelines;2+Patents+%7C+Research+Published" alt="Typing SVG" /></a>
+
+<!-- DYNAMIC BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=im-prafful&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/im-prafful?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/im-prafful?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  <a href="./Prafful_Mishra_Resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-critical?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+</div>
+
+<br>
+
+<!-- ABOUT ME SECTION -->
+
+## 💻 `$ whoami`
+
+```bash
+prafful@github:~$ cat about.txt
+
+> Systems Engineer @ Tata Consultancy Services
+> Building ML pipelines that process 4,400+ legal docs with 66% faster throughput
+> Modernizing legacy mainframe → microservices | TypeScript + AWS Lambda + DB2
+> GATE Qualified (CS&IT) | CGPA: 9.61/10 | SRM Academic Winner '24
+
+🔭 Currently: Architecting serverless ML infrastructure on AWS
+🌱 Learning: Advanced Kubernetes orchestration & LLM fine-tuning
+⚡ Fun Fact: Patented 2 AI systems before graduation | Chess enthusiast ♟️
+```
+
+<br>
+
+---
+
+<br>
+
+<!-- TECH STACK SECTION -->
+
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <p width="80%">
-    Hi, I'm <b>Prafful</b>. [cite_start]I am a <b>Systems Engineer at TCS</b> and a Gold Medalist (CGPA 9.61) from SRM Institute of Science and Technology[cite: 4, 5, 13].
-    <br><br>
-    I live at the intersection of <b>applied engineering</b> and <b>academic research</b>. Whether it's modernizing legacy mainframes to microservices, fine-tuning ResNet models, or securing patents for IoT safety, I focus on building systems that matter.
-  </p>
+
+### **Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,sql" />
+</p>
+
+### **AI/ML & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+### **Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,postman" />
+</p>
+
+#### **AWS Services**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+</p>
+
+### **Frameworks & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask" />
+  <img src="https://img.shields.io/badge/DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+### **Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
 </div>
+
+<br>
 
 ---
 
-### 💻 Projects Showcase
+<br>
 
+<!-- EDUCATION SHOWCASE -->
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 Crop Recommendation System</h3>
-      <div align="center">
-        <a href="YOUR_YOUTUBE_LINK_HERE">
-          <img src="./assets/project-crop.jpg" alt="Watch Video" width="100%" style="border-radius: 10px;" />
-          <br>
-          <b>🔴 Watch Demo</b>
-        </a>
-      </div>
-      <br>
-      <ul>
-        [cite_start]<li><b>Tech:</b> Python, SQL, Genetic Algorithms[cite: 35].</li>
-        [cite_start]<li><b>Impact:</b> Achieved <b>99% accuracy</b> using Compound-Ensemble of 12 classifiers[cite: 36].</li>
-        [cite_start]<li><b>Validation:</b> 83% match rate with TN Govt data[cite: 38].</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 Vehicle Control System</h3>
-      <div align="center">
-         <a href="YOUR_YOUTUBE_LINK_HERE">
-          <img src="./assets/project-vehicle.jpg" alt="Watch Video" width="100%" style="border-radius: 10px;" />
-          <br>
-          <b>🔴 Watch Demo</b>
-        </a>
-      </div>
-      <br>
-      <ul>
-        [cite_start]<li><b>Tech:</b> Python, Embedded C, ANN[cite: 39].</li>
-        [cite_start]<li><b>Impact:</b> Neural Network prototype with <b>92% accuracy</b>[cite: 42].</li>
-        [cite_start]<li><b>Outcome:</b> Simulated 18% crash reduction & <b>Patent Filed</b>[cite: 42, 43].</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
 
----
-
-### 💼 Professional Experience
-*Click on the arrows to view details and certificates.*
+## 🎓 **Education Showcase**
 
 <details>
-[cite_start]<summary><strong>🚀 Systems Engineer @ Tata Consultancy Services (TCS)</strong> (Dec 2024 - Present) [cite: 13-15]</summary>
+<summary><b>🏛️ Click to view my degree certificate</b></summary>
+
 <br>
-<ul>
-  [cite_start]<li>Built an ML pipeline (AWS Lambda/TypeScript) processing <b>4,400 legal docs/day</b> with 66% faster throughput[cite: 16].</li>
-  [cite_start]<li>Modernizing legacy mainframe workloads to Java/TypeScript microservices backed by DB2[cite: 17].</li>
-  [cite_start]<li>Developed dynamic form processing across JSON, XML, and ODT[cite: 18].</li>
-</ul>
+
+<div style="border: 3px solid; border-image: linear-gradient(45deg, #FFD700, #FFA500, #FFD700) 1; padding: 20px; animation: borderAnimation 3s infinite;">
+
+<img src="./assets/certificates/degree.jpeg" alt="SRM Degree Certificate" width="80%" style="box-shadow: 0 8px 32px rgba(255, 215, 0, 0.4); border-radius: 10px;"/>
+
+**Bachelor of Technology in Computer Science and Engineering**  
+🏫 SRM Institute of Science and Technology, Chennai  
+📅 September 2020 – May 2024  
+🎯 CGPA: **9.61/10** | **First Class with Distinction**
+
+</div>
+
+</details>
+
+</div>
+
+<style>
+@keyframes borderAnimation {
+  0%, 100% { border-image-source: linear-gradient(45deg, #FFD700, #FFA500); }
+  50% { border-image-source: linear-gradient(45deg, #FFA500, #FFD700); }
+}
+</style>
+
 <br>
-<h4>📄 Certificate/Proof</h4>
-<img src="./assets/cert-tcs.jpg" alt="TCS Certificate" width="600px">
+
+---
+
+<br>
+
+<!-- PROJECTS SECTION -->
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+|                                                                     🎯 Project                                                                      |                                                                                                                                                                                           🛠️ Tech Stack                                                                                                                                                                                           |                                                                                    🎬 Demo                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Optimal Crop Recommendation System** <br> _Compound-Ensemble ML model with 99% accuracy_ <br> Integrated 12 weak classifiers + Genetic Algorithms | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![IoT](https://img.shields.io/badge/IoT_Sensors-00979D?style=flat&logo=arduino&logoColor=white)  | [![Watch](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/sCcLKE5mnjc?si=74hF9Krv2KPZMI6n) |
+|  **AI-Driven Vehicle Safety System** <br> _ANN-based prototype simulating 18% crash risk reduction_ <br> Patent-pending speed limiting innovation   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Embedded_C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=raspberrypi&logoColor=white) |                      [![Watch](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)                      |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- EXPERIENCE SECTION -->
+
+## 💼 **Professional Journey**
+
+<details open>
+<summary><b>🏢 Tata Consultancy Services (TCS) — Systems Engineer</b> | Dec 2024 – Present</summary>
+
+<br>
+
+**📍 Location:** Chennai, Tamil Nadu
+
+**🔧 Key Contributions:**
+
+- 🚀 Built a **ML pipeline** processing **4,400+ legal documents** with **66% faster throughput** using **AWS Lambda** and **TypeScript**
+- ⚙️ Modernizing **legacy mainframe workloads** into **Java/TypeScript microservices** backed by **DB2**
+- 📝 Developed **TypeScript-based dynamic form processing** across **JSON, XML, and ODT** with **Lambda-driven payloads**
+- ☁️ Architecting **serverless infrastructure** for scalable document processing
+
+**🏆 Recognition:**
+
+<details>
+<summary>🥇 Best Team Award (June 2025)</summary>
+
+<br>
+
+<img src="./assets/certificates/tcs_award.jpg" alt="TCS Best Team Award" width="60%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,247,247,0.3);"/>
+
+> _"In appreciation of outstanding contribution to the organisation"_
+
+</details>
+
 </details>
 
 <details>
-[cite_start]<summary><strong>🤖 ML Intern @ Samsung PRISM</strong> (Sep 2023 - Mar 2024) [cite: 19, 28]</summary>
+<summary><b>🔬 Samsung PRISM — ML Intern</b> | April 2023 – September 2023</summary>
+
 <br>
-<ul>
-  [cite_start]<li>Engineered a high-res <b>2,500-image dataset</b> for object detection[cite: 21].</li>
-  [cite_start]<li>Fine-tuned ResNet-based CNN achieving <b>97% accuracy</b>[cite: 22].</li>
-  [cite_start]<li>Implemented Float-16 quantization, compressing model size by 80%[cite: 23].</li>
-</ul>
-<br>
-<h4>📄 Certificate/Proof</h4>
-<img src="./assets/cert-samsung.jpg" alt="Samsung Certificate" width="600px">
+
+**📍 Location:** Chennai, Tamil Nadu
+
+**🎯 Achievements:**
+
+- 🖼️ Engineered a **high-resolution dataset of 2,500 images** for object detection
+- 🧠 Fine-tuned **ResNet-based CNN** achieving **97% accuracy**
+- 📉 Implemented **Float-16 quantization**, compressing model size by **80%**
+- 🔍 Optimized inference speed for edge deployment
+
 </details>
 
 <details>
-[cite_start]<summary><strong>🔬 Research Intern @ Selective Excellence Research Initiative (SERI)</strong> (Oct 2022 - Apr 2023) [cite: 24, 27]</summary>
+<summary><b>📊 SRM Research Initiative (SERI) — Research Intern</b> | Oct 2022 – Dec 2023</summary>
+
 <br>
-<ul>
-  [cite_start]<li>Developed an <b>Intensified LSTM model</b> for rainfall forecasting (RMSE 0.8)[cite: 32].</li>
-  [cite_start]<li>Conducted in-depth analysis on 24 unique soil samples[cite: 26].</li>
-</ul>
-<br>
-<h4>📄 Certificate/Proof</h4>
-<img src="./assets/cert-srm.jpg" alt="SRM Certificate" width="600px">
+
+**📍 Location:** Chennai, Tamil Nadu
+
+**🔬 Research Focus:**
+
+- 🌾 Collected and analyzed **24 unique soil samples** for agricultural applications
+- 🌧️ Developed an **Intensified LSTM model** for rainfall forecasting with **RMSE of 0.8**
+- 📄 **Co-authored** a research publication contributing **3 unique insights** (published in Springer)
+- 🤖 Integrated IoT sensors for real-time environmental monitoring
+
 </details>
+
+<br>
 
 ---
 
-### 🔬 Research & Innovations
+<br>
 
-#### 1. Patents 📜
+<!-- RESEARCH & IP SECTION -->
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./assets/patent-india.jpg" height="200px" style="border: 1px solid #333; border-radius: 8px;"/><br><br>
-      <b>🇮🇳 Indian Patent No. 564654</b><br>
-      [cite_start]<i>Vehicle Control & Monitoring System [cite: 48, 50]</i>
-    </td>
-    <td align="center" width="50%">
-      <img src="./assets/patent-germany.jpg" height="200px" style="border: 1px solid #333; border-radius: 8px;"/><br><br>
-      <b>🇩🇪 German Patent No. 20 2025 101 529</b><br>
-      [cite_start]<i>System for Securing Patient Data in IoT [cite: 51]</i>
-    </td>
-  </tr>
+
+## 🏆 **Research & Intellectual Property**
+
+<div style="border: 4px solid; border-image: linear-gradient(90deg, #FFD700, #FFA500, #FFD700, #FFA500) 1; padding: 30px; border-radius: 15px; background: linear-gradient(135deg, rgba(255,215,0,0.05), rgba(255,165,0,0.05)); animation: goldenGlow 4s infinite;">
+
+### 📜 **Patents Granted**
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<details>
+<summary><b>🇮🇳 Indian Patent No. 564654</b></summary>
+
+<br>
+
+<img src="./assets/certificates/patent_india.jpg" alt="Indian Patent Certificate" width="100%" style="border-radius: 8px; box-shadow: 0 6px 24px rgba(255,215,0,0.4);"/>
+
+**📋 Title:** AI-Driven Centralized Vehicle Control and Monitoring System
+
+**🔬 Innovation:** ANN-based automotive safety prototype integrating ML + IoT sensors for real-time risk assessment and speed control
+
+**📅 Filed:** October 3, 2023  
+**✅ Granted:** March 30, 2025  
+**⚖️ IPC Classification:** G06F 21/55
+
+**💡 Impact:** Simulates **18% reduction in crash risk** through predictive AI intervention
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+<details>
+<summary><b>🇩🇪 German Patent No. 20 2025 101 529</b></summary>
+
+<br>
+
+**📋 Title:** A System for Securing Patient Data in IoT-Enabled Hospitals
+
+**🔬 Innovation:** Blockchain-integrated security framework with advanced PII masking and cryptographic protection for healthcare IoT networks
+
+**📅 Filed:** March 20, 2025  
+**✅ Registered:** April 1, 2025  
+**⚖️ IPC Classification:** G06F 21/55
+
+**💡 Key Features:**
+
+- 🔐 Public/private key cryptography
+- 🛡️ Pre-processing with PII data masking
+- ⛓️ Blockchain-based secure data blocks
+- 🏥 Resilient against cyber threats in healthcare
+
+</details>
+
+</td>
+</tr>
 </table>
+
+---
+
+### 📚 **Research Publications**
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+**📘 Published in Springer** _(Feb 2024)_
+
+<img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge&logo=springer&logoColor=white"/>
+
+**3rd International Conference on Recent Trends in Engineering, Technology and Business Management**
+
+_Mitigating Ransomware in IoT-enabled Hospitals using Blockchain and AI/ML Techniques_
+
+<details>
+<summary>📜 View Conference Certificate</summary>
+
+<br>
+
+<img src="./assets/certificates/springer_conf.jpg" alt="Springer Conference Certificate" width="90%" style="border-radius: 8px;"/>
+
+</details>
+
+</td>
+<td width="50%" align="center">
+
+**📗 ScienceDirect** _(Under Review)_
+
+<img src="https://img.shields.io/badge/Status-Under_Review-blue?style=for-the-badge&logo=elsevier&logoColor=white"/>
+
+**Optimizing Crop Selection for Sustainable Agriculture**
+
+_A Compound Ensemble Approach Integrating Machine Learning and IoT-based Sensors_
+
+**Key Contribution:** 99% accuracy through 12-classifier ensemble + Genetic Algorithm tuning
+
+</td>
+</tr>
+</table>
+
 </div>
 
-#### 2. Research Papers (Under Review) 📝
+</div>
 
-<table>
-  <tr>
-    <td width="30%"><img src="./assets/paper-crop.jpg" width="100%" style="border-radius: 8px;"></td>
-    <td width="70%">
-      <b>🌱 Optimizing Crop Selection for Sustainable Agriculture</b><br>
-      [cite_start]<i>Status: Under Review (ScienceDirect) [cite: 60, 61]</i><br><br>
-      Exploring a Compound Ensemble approach integrating Machine Learning and IoT sensors to revolutionize precision agriculture. We analyze soil data to predict optimal crop yields with high fidelity.
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><img src="./assets/paper-rain.jpg" width="100%" style="border-radius: 8px;"></td>
-    <td width="70%">
-      <b>🌧️ Intensified LSTM for Rainfall Forecasting</b><br>
-      [cite_start]<i>Status: Published Findings [cite: 33]</i><br><br>
-      Synthesized key project findings contributing 3 unique insights into temporal weather patterns using Long Short-Term Memory networks to reduce RMSE significantly.
-    </td>
-  </tr>
-</table>
+<style>
+@keyframes goldenGlow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(255,215,0,0.3), 0 0 40px rgba(255,165,0,0.2);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(255,215,0,0.5), 0 0 60px rgba(255,165,0,0.3);
+  }
+}
+</style>
 
-#### 3. Conferences & Presentations 🗣️
-<details>
-<summary><strong>Click to view Conference Certificates</strong></summary>
 <br>
-[cite_start]<b>Springer:</b> 3rd International Conference on Recent Trends in Engineering, Technology and Business Management[cite: 53, 54].
+
+---
+
+<br>
+
+<!-- GITHUB STATS SECTION -->
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-prafful/im-prafful/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-prafful/im-prafful/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/im-prafful/im-prafful/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br><br>
-<img src="./assets/cert-conf.jpg" alt="Conference Certificate" width="600px">
-</details>
 
----
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-prafful&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-prafful&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" alt="Top Languages" height="180"/>
+</p>
 
-### ♟️ Hobbies & Interests
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-prafful&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="150px">
-        <img src="https://cdn-icons-png.flaticon.com/512/3069/3069174.png" width="50px" /><br>
-        <b>Chess</b><br>
-        <i>Strategic Thinking</i>
-      </td>
-      <td align="center" width="150px">
-        <img src="https://cdn-icons-png.flaticon.com/512/826/826070.png" width="50px" /><br>
-        <b>Traveling</b><br>
-        <i>Exploration</i>
-      </td>
-       <td align="center" width="150px">
-        <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="50px" /><br>
-        <b>Coding</b><br>
-        <i>Problem Solving</i>
-      </td>
-    </tr>
-  </table>
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=im-prafful&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
 
 </div>
 
+<br>
+
 ---
 
-### 📊 GitHub Stats
+<br>
+
+<!-- ACHIEVEMENTS SECTION -->
+
+## 🏅 **Achievements & Recognition**
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=im-prafful&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-prafful&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+
+|        🏆 Achievement         | 📅 Year |           🔗 Proof           |
+| :---------------------------: | :-----: | :--------------------------: |
+| **GATE Qualified** (CS & IT)  |  2024   |              ✅              |
+| **SRM Academic Winner Award** |  2024   |              ✅              |
+| **Project Expo - 2nd Place**  |  2024   |              🥈              |
+|      **CodeChef 3-Star**      | Ongoing |            ⭐⭐⭐            |
+|    **TCS Best Team Award**    |  2025   | [🏆](#-professional-journey) |
+
 </div>
 
+<br>
+
+---
+
+<br>
+
+<!-- HOBBIES SECTION -->
+
+## 🎯 **Beyond Code**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+♟️ **Chess Enthusiast**  
+Strategic thinking translates to algorithmic problem-solving
+
+</td>
+<td align="center" width="50%">
+
+✈️ **Travel Explorer**  
+Exploring cultures, collecting experiences
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- CONNECT SECTION -->
+
+## 🌐 **Let's Connect**
+
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/prafful-mishra-9607b7209"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:imprafful26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/im-prafful"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="tel:+918969729975"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+**📍 Location:** Chennai, Tamil Nadu, India  
+**🌍 Open to:** Remote Work | Collaborations | Research Opportunities
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
-  <br>
-  <i>"The best way to predict the future is to invent it."</i>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+### 💬 _"Transforming ideas into intelligent systems, one commit at a time."_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
+<!-- VISITOR COUNTER -->
+<div align="center">
+  <img src="https://count.getloli.com/get/@im-prafful?theme=rule34" alt="Visitor Count"/>
 </div>
