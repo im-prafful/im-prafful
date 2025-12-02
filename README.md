@@ -1,3 +1,33 @@
+This is a sophisticated request. Using HTML `<details>` and `<summary>` tags is the perfect way to handle the "Expandable Certificates" requirement to keep the README clean while packing in a lot of proof.
+
+Here is your **Ultra-Premium, Research-Focused README**.
+
+### 📂 Required Folder Structure Update
+
+Since we are adding specific certificate sections and "topic" images for research, your `assets` folder needs to look like this. **You will need to upload images matching these names:**
+
+```text
+im-prafful/
+├── README.md
+├── myResume.pdf
+└── assets/
+    ├── cert-tcs.jpg          (TCS Offer/Cert)
+    ├── cert-samsung.jpg      (Samsung Internship Cert)
+    ├── cert-srm.jpg          (Research/College Cert)
+    ├── patent-india.jpg      (Indian Patent Image)
+    ├── patent-germany.jpg    (German Patent Image)
+    ├── paper-crop.jpg        (Visual/Diagram for Crop Paper)
+    ├── paper-rain.jpg        (Visual/Diagram for Rainfall Paper)
+    ├── cert-conf.jpg         (Conference Certificate)
+    ├── project-crop.jpg      (Thumbnail for Crop Project)
+    └── project-vehicle.jpg   (Thumbnail for Vehicle Project)
+```
+
+-----
+
+### 💻 Copy this Code
+
+```markdown
 <div align="center">
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prafful%20Mishra&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20%40%20TCS%20%7C%20AI%20Researcher%20%7C%20Patent%20Holder&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
@@ -20,11 +50,6 @@
       <img src="https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
     </a>
   </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=im-prafful&style=flat-square&color=blueviolet&label=Profile+Views" alt="Views" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-prafful&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3382F7&fire=F7335E&currStreakLabel=3382F7" alt="Streak" height="20" />
-  </p>
 </div>
 
 ---
@@ -32,22 +57,51 @@
 ### 👨‍💻 About Me
 
 <div align="center">
+  <p width="80%">
+    Hi, I'm <b>Prafful</b>. [cite_start]I am a <b>Systems Engineer at TCS</b> and a Gold Medalist (CGPA 9.61) from SRM Institute of Science and Technology[cite: 4, 5, 13].
+    <br><br>
+    I live at the intersection of <b>applied engineering</b> and <b>academic research</b>. Whether it's modernizing legacy mainframes to microservices, fine-tuning ResNet models, or securing patents for IoT safety, I focus on building systems that matter.
+  </p>
+</div>
+
+---
+
+### 💻 Projects Showcase
+
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="30%">
-      <img src="./assets/profile.jpg" alt="Prafful Mishra" width="100%" style="border-radius: 15px; border: 2px solid #3382F7;" />
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 Crop Recommendation System</h3>
+      <div align="center">
+        <a href="YOUR_YOUTUBE_LINK_HERE">
+          <img src="./assets/project-crop.jpg" alt="Watch Video" width="100%" style="border-radius: 10px;" />
+          <br>
+          <b>🔴 Watch Demo</b>
+        </a>
+      </div>
+      <br>
+      <ul>
+        [cite_start]<li><b>Tech:</b> Python, SQL, Genetic Algorithms[cite: 35].</li>
+        [cite_start]<li><b>Impact:</b> Achieved <b>99% accuracy</b> using Compound-Ensemble of 12 classifiers[cite: 36].</li>
+        [cite_start]<li><b>Validation:</b> 83% match rate with TN Govt data[cite: 38].</li>
+      </ul>
     </td>
-    <td valign="center" width="70%">
-      
-      Hi, I'm **Prafful**. I am a **Systems Engineer at TCS** and a Gold Medalist (CGPA 9.61) from SRM Institute of Science and Technology. 
-      
-      I specialize in modernizing legacy workloads and building high-performance AI pipelines. My work bridges the gap between **theoretical research** (with 2 Patents & 3 Publications) and **production engineering** (handling 4,400+ docs/day pipelines).
-
-      * 💼 **Work:** Modernizing Mainframes to Microservices (Java/TypeScript) & Building ML Pipelines on AWS.
-      * 🔬 **Research:** Object Detection (Samsung PRISM), Rainfall Forecasting (LSTM), Crop Recommendation.
-      * 🛠 **Tech:** TypeScript, Python, AWS Lambda, Docker, TensorFlow, React.js.
-      * 🏆 **Achievements:** GATE Qualified (CS&IT), SRM Academic Winner '24.
-      
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Vehicle Control System</h3>
+      <div align="center">
+         <a href="YOUR_YOUTUBE_LINK_HERE">
+          <img src="./assets/project-vehicle.jpg" alt="Watch Video" width="100%" style="border-radius: 10px;" />
+          <br>
+          <b>🔴 Watch Demo</b>
+        </a>
+      </div>
+      <br>
+      <ul>
+        [cite_start]<li><b>Tech:</b> Python, Embedded C, ANN[cite: 39].</li>
+        [cite_start]<li><b>Impact:</b> Neural Network prototype with <b>92% accuracy</b>[cite: 42].</li>
+        [cite_start]<li><b>Outcome:</b> Simulated 18% crash reduction & <b>Patent Filed</b>[cite: 42, 43].</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -55,77 +109,126 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 💼 Professional Experience
+*Click on the arrows to view details and certificates.*
+
+<details>
+[cite_start]<summary><strong>🚀 Systems Engineer @ Tata Consultancy Services (TCS)</strong> (Dec 2024 - Present) [cite: 13-15]</summary>
+<br>
+<ul>
+  [cite_start]<li>Built an ML pipeline (AWS Lambda/TypeScript) processing <b>4,400 legal docs/day</b> with 66% faster throughput[cite: 16].</li>
+  [cite_start]<li>Modernizing legacy mainframe workloads to Java/TypeScript microservices backed by DB2[cite: 17].</li>
+  [cite_start]<li>Developed dynamic form processing across JSON, XML, and ODT[cite: 18].</li>
+</ul>
+<br>
+<h4>📄 Certificate/Proof</h4>
+<img src="./assets/cert-tcs.jpg" alt="TCS Certificate" width="600px">
+</details>
+
+<details>
+[cite_start]<summary><strong>🤖 ML Intern @ Samsung PRISM</strong> (Sep 2023 - Mar 2024) [cite: 19, 28]</summary>
+<br>
+<ul>
+  [cite_start]<li>Engineered a high-res <b>2,500-image dataset</b> for object detection[cite: 21].</li>
+  [cite_start]<li>Fine-tuned ResNet-based CNN achieving <b>97% accuracy</b>[cite: 22].</li>
+  [cite_start]<li>Implemented Float-16 quantization, compressing model size by 80%[cite: 23].</li>
+</ul>
+<br>
+<h4>📄 Certificate/Proof</h4>
+<img src="./assets/cert-samsung.jpg" alt="Samsung Certificate" width="600px">
+</details>
+
+<details>
+[cite_start]<summary><strong>🔬 Research Intern @ Selective Excellence Research Initiative (SERI)</strong> (Oct 2022 - Apr 2023) [cite: 24, 27]</summary>
+<br>
+<ul>
+  [cite_start]<li>Developed an <b>Intensified LSTM model</b> for rainfall forecasting (RMSE 0.8)[cite: 32].</li>
+  [cite_start]<li>Conducted in-depth analysis on 24 unique soil samples[cite: 26].</li>
+</ul>
+<br>
+<h4>📄 Certificate/Proof</h4>
+<img src="./assets/cert-srm.jpg" alt="SRM Certificate" width="600px">
+</details>
+
+---
+
+### 🔬 Research & Innovations
+
+#### 1. Patents 📜
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/patent-india.jpg" height="200px" style="border: 1px solid #333; border-radius: 8px;"/><br><br>
+      <b>🇮🇳 Indian Patent No. 564654</b><br>
+      [cite_start]<i>Vehicle Control & Monitoring System [cite: 48, 50]</i>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/patent-germany.jpg" height="200px" style="border: 1px solid #333; border-radius: 8px;"/><br><br>
+      <b>🇩🇪 German Patent No. 20 2025 101 529</b><br>
+      [cite_start]<i>System for Securing Patient Data in IoT [cite: 51]</i>
+    </td>
+  </tr>
+</table>
+</div>
+
+#### 2. Research Papers (Under Review) 📝
+
+<table>
+  <tr>
+    <td width="30%"><img src="./assets/paper-crop.jpg" width="100%" style="border-radius: 8px;"></td>
+    <td width="70%">
+      <b>🌱 Optimizing Crop Selection for Sustainable Agriculture</b><br>
+      [cite_start]<i>Status: Under Review (ScienceDirect) [cite: 60, 61]</i><br><br>
+      Exploring a Compound Ensemble approach integrating Machine Learning and IoT sensors to revolutionize precision agriculture. We analyze soil data to predict optimal crop yields with high fidelity.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="./assets/paper-rain.jpg" width="100%" style="border-radius: 8px;"></td>
+    <td width="70%">
+      <b>🌧️ Intensified LSTM for Rainfall Forecasting</b><br>
+      [cite_start]<i>Status: Published Findings [cite: 33]</i><br><br>
+      Synthesized key project findings contributing 3 unique insights into temporal weather patterns using Long Short-Term Memory networks to reduce RMSE significantly.
+    </td>
+  </tr>
+</table>
+
+#### 3. Conferences & Presentations 🗣️
+<details>
+<summary><strong>Click to view Conference Certificates</strong></summary>
+<br>
+[cite_start]<b>Springer:</b> 3rd International Conference on Recent Trends in Engineering, Technology and Business Management[cite: 53, 54].
+<br><br>
+<img src="./assets/cert-conf.jpg" alt="Conference Certificate" width="600px">
+</details>
+
+---
+
+### ♟️ Hobbies & Interests
 
 <div align="center">
   
-  **Languages**
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,c,html,css,sql" />
-  <br><br>
-
-  **AI & Data Science**
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,anaconda" />
-  <br><br>
-
-  **Cloud & DevOps**
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,postman,jenkins,vscode,linux" />
-
-</div>
-
----
-
-### 💼 Professional Experience
-
-| Role | Organization | Impact |
-| :--- | :--- | :--- |
-| **Systems Engineer** | **TCS** | • Built ML pipeline (AWS Lambda/TS) processing **4,400 docs** with **66% faster** throughput.<br>• Migrating mainframe workloads to **Microservices** (DB2/Java). |
-| **ML Intern** | **Samsung PRISM** | • Engineered **2,500-image dataset** & fine-tuned **ResNet** to **97% accuracy**.<br>• Compressed model by **80%** using Float-16 quantization. |
-| **Research Intern** | **SERI, SRM** | • Developed **Intensified LSTM** for rainfall forecasting (RMSE 0.8).<br>• Analyzed 24 unique soil samples for research data. |
-
----
-
-### 📜 Patents & Achievements
-
-<div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <b>🇮🇳 Indian Patent</b><br>
-        <br>
-        <img src="./assets/patent-india.jpg" height="150" alt="Indian Patent"/>
-        <br><br>
-        <i>Vehicle Control & Monitoring System<br>(No. 564654)</i>
+      <td align="center" width="150px">
+        <img src="https://cdn-icons-png.flaticon.com/512/3069/3069174.png" width="50px" /><br>
+        <b>Chess</b><br>
+        <i>Strategic Thinking</i>
       </td>
-      <td align="center" width="33%">
-        <b>🇩🇪 German Patent</b><br>
-        <br>
-        <img src="./assets/patent-germany.jpg" height="150" alt="German Patent"/>
-        <br><br>
-        <i>IoT Patient Data Security<br>(No. 20 2025 101 529)</i>
+      <td align="center" width="150px">
+        <img src="https://cdn-icons-png.flaticon.com/512/826/826070.png" width="50px" /><br>
+        <b>Traveling</b><br>
+        <i>Exploration</i>
       </td>
-      <td align="center" width="33%">
-        <b>🏆 Recognition</b><br>
-        <br>
-        <img src="./assets/cert-gate.jpg" height="150" alt="GATE/Award"/>
-        <br><br>
-        <i>GATE Qualified (CS&IT)<br>SRM Academic Winner '24</i>
+       <td align="center" width="150px">
+        <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="50px" /><br>
+        <b>Coding</b><br>
+        <i>Problem Solving</i>
       </td>
     </tr>
   </table>
+
 </div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **🌾 Crop Recommendation System** | `Python` `SQL` `Embedded C` | • **99% Accuracy** using Compound-Ensemble of 12 classifiers.<br>• **83% match rate** with TN Govt data.<br>• Hyperparameter tuning via Genetic Algorithms. |
-| **🚗 Vehicle Control System** | `Python` `Embedded C` `ANN` | • Lightweight ANN prototype with **92% accuracy**.<br>• Simulated **18% reduction** in crash risk.<br>• Filed Patent No. 564654. |
-| **🌦️ Rainfall Forecasting** | `LSTM` `Python` `Pandas` | • Research project attaining **RMSE of 0.8**.<br>• Published findings in Springer Conference. |
 
 ---
 
@@ -148,7 +251,8 @@
 
 <div align="center">
   <br>
-  <i>"Innovating for a smarter, safer future."</i>
+  <i>"The best way to predict the future is to invent it."</i>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+```
