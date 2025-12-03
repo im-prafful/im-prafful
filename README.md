@@ -185,7 +185,7 @@ prafful@github:~$ whoami
 
 <div align="center">
 <a href="https://www.youtube.com/embed/sCcLKE5mnjc?si=TT6lSjf_Y7KRs9Jz">
-<img src="./assets/previews/crop_system_thumb.webp" alt="Crop System" width="100%" style="border-radius: 10px;"/>
+<img src="./assets/previews/crop_system_thumb.jpg" alt="Crop System" width="100%" style="border-radius: 10px;"/>
 <br><br>
 <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
@@ -212,7 +212,7 @@ prafful@github:~$ whoami
 
 <div align="center">
 <a href="https://www.youtube.com/embed/8Tix9FgEa9k?si=yJGkN8GK7Xm0mCn8">
-<img src="./assets/previews/vehicle_system_thumb.avif" alt="Vehicle System" width="100%" style="border-radius: 10px;"/>
+<img src="./assets/previews/vehicle_system_thumb.jpg" alt="Vehicle System" width="100%" style="border-radius: 10px;"/>
 <br><br>
 <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
