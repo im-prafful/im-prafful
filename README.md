@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/prafful-mishra-9607b7209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:imprafful26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.codechef.com/users/im_prafful"><img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="./myResume.pdf"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+  <a href="./Prafful_Mishra_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=im-prafful&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -136,7 +136,7 @@ prafful@github:~$ whoami
 <br>
 
 <div align="center">
-<img src="./assets/certificates/tcs_award.png" alt="TCS Best Team Award" width="60%" style="border-radius: 8px;"/>
+<img src="./assets/certificates/tcs_award.jpg" alt="TCS Best Team Award" width="60%" style="border-radius: 8px;"/>
 </div>
 
 </details>
