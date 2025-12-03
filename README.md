@@ -31,7 +31,7 @@ prafful@github:~$ whoami
 
 > Systems Engineer @ Tata Consultancy Services (Dec 2024 - Present)
 > Gold Medalist (CGPA 9.61/10) | SRM Institute of Science and Technology
-> GATE Qualified (CS & IT) | 2 Patents Filed | Research Published in Springer (soon)
+> GATE Qualified (CS & IT) | 2 Patents Granted | Research Paper (in-review @Springer)
 
 🔭 Building ML pipelines processing 4,400+ legal docs with 66% faster throughput
 🌱 Modernizing legacy mainframes → Java/TypeScript microservices
