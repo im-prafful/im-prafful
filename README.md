@@ -352,8 +352,9 @@ Key Innovation: 99% accuracy through 12-classifier ensemble + Genetic Algorithm 
 <br><br>
 
 <!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=im-prafful&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-prafful&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
+<p align="center">
+  <img src="assets/github-metrics.svg" alt="Prafful's GitHub Metrics" width="100%">
+</p>
 
 <br>
 
